@@ -5,7 +5,7 @@ This module provides a simple implementation of Google OAuth 2.0 authentication 
 ## Features
 - Redirect users to Google OAuth 2.0 for authentication.
 - Handle the OAuth 2.0 callback and exchange authorization codes for access tokens.
-- Retrieve authenticated user profile information.
+- Retrieve authenticated user profile information...
 
 ## Prerequisites
 
