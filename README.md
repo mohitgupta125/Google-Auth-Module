@@ -13,7 +13,7 @@ Before setting up this module, ensure the following:
 
 1. **Google Cloud Project**:
    - Create a project on [Google Cloud Console](https://console.cloud.google.com/).
-   - Enable the "Google+ API" or "Google Identity Services" API..
+   - Enable the "Google+ API" or "Google Identity Services" API.
    - Generate OAuth 2.0 credentials (Client ID and Client Secret).
    - Set the "Authorized redirect URI" to `http://localhost:<PORT>/auth/google/callback` (replace `<PORT>` with your app's port).
 
