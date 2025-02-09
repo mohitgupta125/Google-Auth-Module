@@ -70,7 +70,7 @@ Before setting up this module, ensure the following:
 
 ### Sample Response
 
-On successful authentication, the API responds with:
+On successful authentication, the API responds with:.
 
 ```json
 {
